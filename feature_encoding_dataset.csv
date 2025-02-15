@@ -1,0 +1,201 @@
+Gender,Education Level,Marital Status,Employment Type,Country,Salary Range
+Male,High School,Single,Full-time,Nigeria,High
+Male,High School,Divorced,Self-employed,Canada,Medium
+Female,High School,Divorced,Part-time,USA,Low
+Male,Bachelor's,Single,Unemployed,Canada,Low
+Male,Bachelor's,Married,Part-time,Canada,Low
+Male,PhD,Divorced,Self-employed,Nigeria,Low
+Male,PhD,Married,Self-employed,Nigeria,Medium
+Male,PhD,Married,Unemployed,India,Medium
+Female,Bachelor's,Married,Self-employed,UK,Low
+Male,PhD,Single,Unemployed,India,Low
+Male,High School,Single,Self-employed,Nigeria,Low
+Male,Bachelor's,Married,Self-employed,India,High
+Male,PhD,Widowed,Unemployed,Canada,Low
+Male,High School,Single,Self-employed,Canada,Medium
+Male,PhD,Widowed,Self-employed,Nigeria,Medium
+Male,Master's,Widowed,Self-employed,Nigeria,Medium
+Female,PhD,Married,Part-time,India,High
+Male,Master's,Widowed,Full-time,India,High
+Female,PhD,Widowed,Part-time,Canada,High
+Female,PhD,Widowed,Self-employed,UK,High
+Male,Bachelor's,Married,Full-time,UK,Medium
+Male,Bachelor's,Married,Part-time,Nigeria,High
+Female,Master's,Single,Part-time,India,High
+Female,Bachelor's,Single,Part-time,UK,High
+Female,High School,Widowed,Unemployed,India,Low
+Male,High School,Married,Self-employed,USA,Medium
+Male,Master's,Married,Self-employed,Canada,High
+Female,High School,Widowed,Full-time,India,Low
+Male,High School,Single,Part-time,India,Medium
+Male,PhD,Married,Self-employed,India,High
+Female,Bachelor's,Single,Part-time,UK,Medium
+Male,High School,Widowed,Self-employed,India,Medium
+Female,High School,Married,Part-time,USA,Low
+Female,Bachelor's,Widowed,Self-employed,UK,High
+Female,High School,Divorced,Full-time,Nigeria,Medium
+Male,High School,Widowed,Part-time,Nigeria,Low
+Female,Bachelor's,Widowed,Self-employed,Canada,Medium
+Male,PhD,Widowed,Full-time,USA,Medium
+Female,High School,Married,Full-time,India,Low
+Male,Bachelor's,Widowed,Self-employed,USA,Medium
+Female,High School,Widowed,Part-time,Nigeria,Low
+Female,High School,Divorced,Unemployed,India,High
+Male,PhD,Married,Full-time,USA,Medium
+Male,Master's,Divorced,Full-time,UK,High
+Male,Master's,Widowed,Self-employed,India,High
+Male,Bachelor's,Married,Unemployed,UK,Medium
+Female,Master's,Divorced,Unemployed,USA,Low
+Male,Bachelor's,Widowed,Unemployed,India,Medium
+Male,Master's,Single,Self-employed,Canada,Medium
+Male,PhD,Divorced,Part-time,Canada,Low
+Female,Bachelor's,Married,Full-time,Nigeria,Low
+Female,Master's,Divorced,Self-employed,India,Medium
+Female,PhD,Divorced,Unemployed,USA,Low
+Female,Master's,Divorced,Full-time,Canada,High
+Male,High School,Single,Full-time,Nigeria,Low
+Female,High School,Married,Unemployed,India,High
+Female,PhD,Married,Unemployed,Canada,High
+Male,High School,Married,Full-time,India,High
+Female,High School,Widowed,Full-time,Nigeria,Low
+Male,Bachelor's,Married,Part-time,USA,Low
+Male,Master's,Married,Part-time,Nigeria,Medium
+Male,Bachelor's,Single,Self-employed,USA,Low
+Male,Master's,Widowed,Full-time,UK,Low
+Female,High School,Widowed,Part-time,Canada,High
+Female,Bachelor's,Divorced,Full-time,UK,Low
+Female,Master's,Widowed,Unemployed,USA,Low
+Male,Master's,Widowed,Part-time,India,High
+Female,Bachelor's,Single,Unemployed,USA,Low
+Male,PhD,Married,Unemployed,USA,High
+Male,Master's,Widowed,Unemployed,India,Low
+Male,High School,Widowed,Self-employed,UK,Low
+Female,Master's,Single,Unemployed,Canada,Medium
+Female,High School,Widowed,Self-employed,USA,Low
+Female,Bachelor's,Widowed,Full-time,USA,High
+Male,Master's,Single,Full-time,Canada,Low
+Male,High School,Divorced,Part-time,USA,Medium
+Female,High School,Divorced,Part-time,Canada,Low
+Male,Bachelor's,Widowed,Self-employed,Canada,Low
+Female,Master's,Widowed,Full-time,Canada,High
+Female,Master's,Married,Part-time,India,Medium
+Female,Bachelor's,Widowed,Part-time,UK,Low
+Male,Master's,Married,Part-time,UK,Low
+Female,Bachelor's,Divorced,Full-time,Nigeria,High
+Male,Master's,Widowed,Part-time,India,Low
+Male,PhD,Widowed,Full-time,Nigeria,Low
+Female,Master's,Single,Unemployed,UK,Low
+Female,High School,Widowed,Unemployed,UK,Medium
+Female,High School,Divorced,Unemployed,UK,Low
+Female,PhD,Widowed,Self-employed,USA,High
+Male,Master's,Married,Full-time,Nigeria,Medium
+Male,High School,Widowed,Part-time,India,Low
+Female,High School,Married,Self-employed,Nigeria,Low
+Male,Master's,Single,Self-employed,UK,Medium
+Male,Bachelor's,Widowed,Unemployed,India,Low
+Male,Master's,Single,Full-time,Nigeria,Low
+Male,Bachelor's,Single,Part-time,UK,High
+Male,PhD,Widowed,Self-employed,UK,Medium
+Female,PhD,Married,Part-time,India,High
+Male,High School,Widowed,Unemployed,Canada,Low
+Female,High School,Married,Full-time,India,High
+Female,High School,Single,Part-time,Canada,Low
+Female,Bachelor's,Divorced,Part-time,USA,Medium
+Female,High School,Widowed,Self-employed,India,Medium
+Male,Master's,Divorced,Part-time,Canada,Medium
+Male,Bachelor's,Married,Full-time,Nigeria,High
+Female,PhD,Widowed,Full-time,UK,High
+Female,Bachelor's,Divorced,Part-time,USA,Low
+Male,High School,Divorced,Self-employed,India,Medium
+Female,Master's,Widowed,Self-employed,Canada,High
+Female,Master's,Divorced,Unemployed,Nigeria,Low
+Male,High School,Widowed,Full-time,Canada,High
+Female,Master's,Divorced,Unemployed,India,Low
+Male,Bachelor's,Single,Self-employed,Canada,High
+Female,Bachelor's,Widowed,Unemployed,India,High
+Male,High School,Single,Self-employed,Canada,High
+Male,Master's,Single,Unemployed,UK,Medium
+Female,PhD,Divorced,Unemployed,India,Medium
+Male,Bachelor's,Married,Full-time,India,High
+Male,Bachelor's,Single,Full-time,USA,Low
+Female,Bachelor's,Single,Unemployed,UK,Low
+Male,Bachelor's,Single,Self-employed,India,Medium
+Male,PhD,Married,Self-employed,Nigeria,Medium
+Female,High School,Married,Full-time,Canada,Medium
+Female,Bachelor's,Single,Full-time,Nigeria,High
+Male,Master's,Married,Part-time,Canada,Low
+Male,PhD,Married,Full-time,Canada,Medium
+Female,Bachelor's,Married,Self-employed,USA,High
+Female,Master's,Widowed,Full-time,India,Medium
+Male,Bachelor's,Single,Part-time,Canada,Low
+Male,High School,Married,Unemployed,USA,Low
+Male,PhD,Widowed,Unemployed,Nigeria,Medium
+Male,High School,Divorced,Self-employed,USA,High
+Male,PhD,Divorced,Part-time,Nigeria,Low
+Female,Bachelor's,Married,Unemployed,India,Low
+Male,Bachelor's,Single,Unemployed,Canada,Low
+Male,PhD,Married,Full-time,UK,Medium
+Male,Master's,Divorced,Unemployed,Nigeria,High
+Female,Master's,Single,Self-employed,Canada,High
+Male,Bachelor's,Single,Unemployed,UK,High
+Female,Bachelor's,Divorced,Self-employed,UK,High
+Female,High School,Widowed,Self-employed,Nigeria,High
+Male,Bachelor's,Widowed,Full-time,Canada,Medium
+Male,PhD,Married,Part-time,UK,Medium
+Female,Master's,Single,Self-employed,USA,High
+Female,Master's,Married,Unemployed,USA,High
+Female,High School,Single,Unemployed,Canada,Medium
+Female,Master's,Divorced,Self-employed,India,Medium
+Female,Master's,Single,Unemployed,USA,High
+Male,PhD,Single,Full-time,Nigeria,High
+Male,Master's,Divorced,Unemployed,Canada,Medium
+Male,High School,Widowed,Full-time,UK,Low
+Male,High School,Divorced,Self-employed,USA,High
+Female,Master's,Single,Self-employed,Canada,Low
+Male,Bachelor's,Divorced,Self-employed,Canada,High
+Male,Master's,Single,Full-time,India,High
+Male,High School,Widowed,Unemployed,UK,High
+Male,High School,Widowed,Full-time,UK,High
+Male,PhD,Single,Unemployed,UK,Low
+Male,Master's,Widowed,Unemployed,Nigeria,Medium
+Male,Master's,Divorced,Full-time,Canada,Medium
+Male,PhD,Widowed,Part-time,Nigeria,Low
+Male,High School,Married,Self-employed,Nigeria,Medium
+Female,PhD,Widowed,Unemployed,Canada,Medium
+Male,Bachelor's,Married,Unemployed,UK,Medium
+Male,Master's,Divorced,Full-time,Canada,Medium
+Female,High School,Widowed,Part-time,India,Medium
+Female,PhD,Widowed,Self-employed,Canada,High
+Male,High School,Widowed,Part-time,Canada,Low
+Male,Bachelor's,Divorced,Self-employed,USA,Medium
+Female,Master's,Divorced,Unemployed,India,Medium
+Male,PhD,Married,Unemployed,USA,Medium
+Female,High School,Single,Full-time,UK,High
+Female,Master's,Divorced,Full-time,UK,Medium
+Male,Master's,Widowed,Part-time,India,Medium
+Male,High School,Married,Part-time,Nigeria,Low
+Male,Master's,Widowed,Self-employed,Canada,High
+Female,Master's,Widowed,Full-time,USA,Medium
+Female,PhD,Divorced,Unemployed,India,Low
+Female,Master's,Single,Full-time,USA,Low
+Female,PhD,Widowed,Part-time,Canada,Low
+Female,Master's,Divorced,Full-time,Nigeria,Low
+Male,Bachelor's,Married,Unemployed,USA,Medium
+Male,Bachelor's,Widowed,Full-time,India,Low
+Male,PhD,Married,Part-time,Canada,High
+Female,PhD,Divorced,Unemployed,Canada,High
+Female,Bachelor's,Divorced,Self-employed,Nigeria,Medium
+Male,Master's,Divorced,Self-employed,India,Low
+Male,PhD,Divorced,Unemployed,Canada,High
+Male,High School,Divorced,Unemployed,USA,Low
+Male,Master's,Single,Unemployed,UK,High
+Female,Master's,Married,Part-time,India,High
+Male,Bachelor's,Single,Unemployed,USA,High
+Female,PhD,Married,Part-time,Nigeria,Medium
+Male,Master's,Widowed,Unemployed,Nigeria,High
+Female,PhD,Widowed,Part-time,Canada,Low
+Female,PhD,Married,Part-time,Nigeria,Medium
+Male,PhD,Widowed,Full-time,UK,Medium
+Male,Bachelor's,Widowed,Self-employed,USA,High
+Female,PhD,Widowed,Unemployed,India,Medium
+Male,Bachelor's,Single,Self-employed,Canada,High
