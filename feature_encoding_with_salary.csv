@@ -1,0 +1,301 @@
+Gender,Education Level,Marital Status,Employment Type,Country,Income,Salary
+Male,PhD,Single,Part-time,Brazil,36787,43654
+Female,PhD,Single,Self-employed,USA,81949,55795
+Female,High School,Married,Unemployed,Germany,111999,860
+Female,High School,Divorced,Part-time,Brazil,70043,25390
+Male,PhD,Widowed,Unemployed,South Africa,125156,5191
+Male,High School,Widowed,Part-time,UK,121677,31964
+Male,Bachelor's,Married,Part-time,UK,128989,31284
+Female,Bachelor's,Married,Self-employed,India,60689,94886
+Male,Master's,Divorced,Part-time,Germany,86260,26265
+Male,PhD,Divorced,Unemployed,Canada,115915,466
+Female,High School,Married,Full-time,South Africa,41953,87194
+Female,Master's,Widowed,Unemployed,USA,122235,5578
+Male,Bachelor's,Divorced,Unemployed,South Africa,42475,8322
+Female,PhD,Divorced,Part-time,France,30142,21685
+Male,Bachelor's,Widowed,Unemployed,Germany,57973,769
+Female,High School,Divorced,Part-time,France,92496,46967
+Male,Master's,Widowed,Self-employed,UK,40215,96101
+Female,High School,Single,Part-time,USA,47393,22433
+Male,High School,Divorced,Self-employed,UK,107814,45311
+Male,PhD,Divorced,Full-time,Nigeria,59647,103707
+Female,PhD,Single,Unemployed,India,98084,3385
+Female,High School,Widowed,Self-employed,Brazil,119126,68693
+Female,PhD,Divorced,Full-time,Brazil,88335,75658
+Female,Master's,Single,Part-time,Brazil,31217,38942
+Male,Master's,Widowed,Full-time,South Africa,31056,68431
+Male,High School,Divorced,Self-employed,South Africa,121173,42747
+Male,Master's,Married,Unemployed,India,75032,9167
+Female,High School,Single,Full-time,China,137100,109150
+Male,Master's,Widowed,Full-time,Germany,45806,115725
+Male,Bachelor's,Married,Part-time,France,142766,39118
+Male,High School,Widowed,Part-time,China,85353,23005
+Male,Master's,Married,Unemployed,South Africa,120968,4658
+Male,Bachelor's,Married,Part-time,Brazil,47324,21899
+Female,High School,Single,Self-employed,Canada,92613,96886
+Female,Master's,Single,Self-employed,Germany,39283,41267
+Female,Master's,Married,Full-time,USA,60008,81551
+Female,Bachelor's,Single,Part-time,China,80209,37912
+Male,PhD,Widowed,Part-time,UK,41708,31394
+Female,PhD,Divorced,Full-time,Nigeria,125782,119092
+Female,Bachelor's,Widowed,Unemployed,France,135638,3890
+Female,Bachelor's,Married,Part-time,UK,43425,28838
+Male,High School,Widowed,Part-time,UK,43526,47464
+Male,PhD,Married,Unemployed,Canada,71071,5393
+Male,High School,Widowed,Part-time,Germany,78177,30627
+Male,Master's,Widowed,Self-employed,Nigeria,145472,48792
+Male,Bachelor's,Single,Self-employed,Germany,69223,83323
+Male,High School,Married,Unemployed,China,47973,8433
+Female,Bachelor's,Married,Unemployed,India,80164,7513
+Female,High School,Divorced,Self-employed,Brazil,131379,42612
+Female,Master's,Widowed,Self-employed,China,136609,96193
+Female,Master's,Widowed,Self-employed,Germany,128717,98707
+Female,PhD,Divorced,Self-employed,China,144622,95387
+Female,PhD,Married,Unemployed,UK,47451,5486
+Female,Master's,Widowed,Unemployed,China,114092,7099
+Male,High School,Divorced,Full-time,China,118753,98555
+Male,Bachelor's,Divorced,Unemployed,Germany,48724,775
+Female,Master's,Divorced,Self-employed,UK,38966,84974
+Female,Master's,Widowed,Part-time,Nigeria,99534,28226
+Male,High School,Married,Self-employed,USA,103831,54541
+Female,Master's,Married,Self-employed,UK,31110,75920
+Female,Master's,Divorced,Unemployed,USA,109995,1585
+Female,High School,Divorced,Full-time,Germany,115199,119479
+Male,Master's,Married,Part-time,UK,51511,43939
+Male,PhD,Divorced,Part-time,Canada,87684,39457
+Female,PhD,Divorced,Full-time,India,76030,116557
+Male,PhD,Married,Self-employed,Brazil,124690,51653
+Male,PhD,Widowed,Unemployed,Canada,57925,3843
+Male,Master's,Divorced,Self-employed,Brazil,112323,80757
+Female,Bachelor's,Widowed,Part-time,Canada,128077,29692
+Male,PhD,Divorced,Part-time,Germany,49840,32990
+Male,PhD,Divorced,Self-employed,Brazil,83963,46873
+Female,Master's,Divorced,Part-time,France,110750,25675
+Female,Master's,Single,Unemployed,China,119989,161
+Female,High School,Widowed,Part-time,India,87984,24297
+Male,PhD,Widowed,Unemployed,France,142717,995
+Male,High School,Divorced,Self-employed,Canada,58474,72606
+Female,PhD,Married,Self-employed,Canada,41362,51534
+Female,Bachelor's,Divorced,Unemployed,France,147518,7629
+Male,Master's,Single,Unemployed,France,43168,9467
+Male,Master's,Divorced,Unemployed,USA,48351,1016
+Female,High School,Single,Part-time,South Africa,128624,44253
+Male,High School,Divorced,Self-employed,India,46142,95591
+Female,Master's,Widowed,Part-time,China,107276,44276
+Male,Master's,Divorced,Part-time,South Africa,125683,43247
+Female,Master's,Widowed,Unemployed,France,80335,7916
+Male,PhD,Married,Part-time,France,76076,28529
+Female,PhD,Married,Full-time,USA,86280,59268
+Male,Bachelor's,Divorced,Full-time,India,71222,62185
+Female,PhD,Divorced,Full-time,India,133688,113704
+Male,Master's,Married,Full-time,Nigeria,48327,89099
+Female,PhD,Single,Full-time,UK,62477,58571
+Female,High School,Married,Unemployed,South Africa,66302,8684
+Female,Master's,Married,Part-time,UK,114491,27208
+Female,PhD,Single,Part-time,Brazil,41042,25276
+Female,Master's,Married,Full-time,Canada,62527,101214
+Male,High School,Married,Part-time,Germany,102534,48460
+Female,High School,Single,Full-time,Germany,108774,98984
+Male,PhD,Single,Part-time,India,108644,28006
+Female,Master's,Widowed,Unemployed,China,124526,2568
+Male,Bachelor's,Divorced,Self-employed,UK,109638,94615
+Female,High School,Widowed,Full-time,Nigeria,67345,112592
+Female,Bachelor's,Single,Unemployed,China,132101,2027
+Male,PhD,Married,Unemployed,Brazil,120502,2695
+Female,High School,Single,Full-time,Germany,33515,98190
+Male,Bachelor's,Married,Full-time,South Africa,141134,55258
+Male,High School,Widowed,Unemployed,France,141027,5618
+Female,Bachelor's,Widowed,Full-time,South Africa,116298,89504
+Female,Master's,Widowed,Full-time,France,144796,83159
+Male,Master's,Married,Self-employed,South Africa,69537,53986
+Female,PhD,Divorced,Self-employed,UK,56928,52666
+Female,High School,Divorced,Full-time,Germany,97862,88660
+Female,Bachelor's,Divorced,Unemployed,Germany,109551,3561
+Male,PhD,Single,Part-time,China,96784,46854
+Female,Master's,Single,Full-time,South Africa,54726,114505
+Male,Master's,Married,Full-time,Canada,128021,102251
+Male,PhD,Single,Part-time,Nigeria,81347,42662
+Male,High School,Married,Part-time,South Africa,68737,28392
+Male,Bachelor's,Widowed,Part-time,South Africa,114694,33067
+Female,Master's,Married,Self-employed,UK,37152,88033
+Female,PhD,Single,Self-employed,Canada,132734,92256
+Male,Master's,Widowed,Self-employed,Germany,147691,63599
+Male,Master's,Widowed,Unemployed,UK,134042,2454
+Male,Bachelor's,Married,Full-time,India,61370,113335
+Male,High School,Divorced,Self-employed,Nigeria,94865,50965
+Female,High School,Single,Unemployed,UK,80578,8154
+Male,Bachelor's,Single,Unemployed,Canada,44777,9762
+Male,PhD,Divorced,Part-time,Germany,61599,25056
+Male,PhD,Single,Part-time,Canada,95481,34948
+Male,High School,Divorced,Self-employed,Brazil,113634,48110
+Male,Master's,Divorced,Full-time,France,107847,77266
+Female,Master's,Widowed,Full-time,France,39307,102992
+Female,PhD,Widowed,Full-time,South Africa,99243,56910
+Female,Bachelor's,Married,Unemployed,Canada,146486,9062
+Female,Master's,Widowed,Unemployed,South Africa,31581,6938
+Female,PhD,Divorced,Unemployed,France,77329,4488
+Male,Bachelor's,Married,Unemployed,France,71480,206
+Female,High School,Single,Full-time,Canada,47299,73419
+Male,Bachelor's,Divorced,Full-time,China,80703,100636
+Female,High School,Married,Part-time,Brazil,142828,44242
+Female,PhD,Widowed,Full-time,Canada,139965,100015
+Female,Bachelor's,Divorced,Unemployed,Brazil,104498,2790
+Female,PhD,Married,Unemployed,Canada,85163,7408
+Male,High School,Single,Self-employed,China,77895,81523
+Female,Master's,Divorced,Full-time,Nigeria,101612,104268
+Male,Master's,Divorced,Full-time,Canada,119514,68141
+Female,High School,Married,Part-time,Canada,52645,34820
+Female,Master's,Married,Part-time,Germany,129972,27574
+Female,Master's,Widowed,Unemployed,China,91736,6374
+Male,Bachelor's,Widowed,Self-employed,South Africa,130973,96044
+Male,Bachelor's,Divorced,Full-time,USA,39567,117214
+Female,Master's,Single,Full-time,Germany,32187,83827
+Female,Bachelor's,Widowed,Self-employed,USA,106986,95820
+Male,High School,Single,Full-time,China,38851,112623
+Male,Bachelor's,Married,Part-time,Canada,31807,36198
+Female,Bachelor's,Married,Self-employed,India,64365,49914
+Female,Bachelor's,Widowed,Full-time,France,58277,72299
+Male,PhD,Divorced,Part-time,Brazil,35220,30817
+Female,High School,Married,Part-time,Brazil,37925,30921
+Male,Master's,Single,Unemployed,China,133453,9789
+Female,Master's,Divorced,Full-time,France,82163,99080
+Female,PhD,Widowed,Self-employed,China,96402,84020
+Male,Bachelor's,Married,Part-time,France,67550,22693
+Male,High School,Widowed,Part-time,China,112388,49467
+Female,High School,Divorced,Unemployed,China,123405,3627
+Male,Master's,Divorced,Self-employed,Canada,95673,65939
+Female,PhD,Divorced,Unemployed,UK,130546,5450
+Male,PhD,Single,Part-time,South Africa,84451,38047
+Male,PhD,Divorced,Full-time,USA,85518,76105
+Male,PhD,Divorced,Self-employed,India,121987,50230
+Male,High School,Married,Full-time,Nigeria,82727,65707
+Female,Bachelor's,Single,Full-time,USA,40803,71976
+Female,Master's,Single,Unemployed,Nigeria,113956,7392
+Male,High School,Widowed,Part-time,India,100328,21306
+Female,PhD,Divorced,Full-time,Brazil,100471,111373
+Female,PhD,Married,Self-employed,Nigeria,110746,46776
+Female,Master's,Widowed,Unemployed,Canada,50012,5864
+Female,Bachelor's,Divorced,Self-employed,China,66368,49474
+Female,Bachelor's,Single,Full-time,South Africa,40957,108053
+Female,Bachelor's,Divorced,Self-employed,China,70620,61959
+Male,PhD,Divorced,Unemployed,Brazil,40357,5530
+Female,High School,Married,Unemployed,Brazil,97017,4413
+Male,High School,Married,Part-time,UK,56633,23748
+Female,Bachelor's,Married,Self-employed,South Africa,135914,71968
+Male,Master's,Widowed,Unemployed,UK,50365,663
+Female,Bachelor's,Married,Unemployed,Nigeria,100305,1998
+Female,Bachelor's,Widowed,Part-time,Brazil,72827,27994
+Female,Master's,Divorced,Unemployed,Germany,81213,1495
+Male,Bachelor's,Widowed,Full-time,Brazil,106865,118840
+Female,Master's,Widowed,Self-employed,USA,113138,92915
+Male,Master's,Married,Part-time,China,130037,41616
+Male,High School,Married,Full-time,Brazil,139383,101005
+Female,Master's,Single,Full-time,India,115175,96576
+Female,Bachelor's,Widowed,Self-employed,France,119267,79353
+Female,Master's,Divorced,Part-time,UK,114299,49235
+Male,Bachelor's,Single,Unemployed,India,38665,1291
+Male,Master's,Single,Part-time,Nigeria,70654,39965
+Female,High School,Single,Unemployed,USA,121576,7554
+Female,Bachelor's,Married,Self-employed,China,87342,63664
+Female,Bachelor's,Married,Self-employed,Nigeria,125677,41636
+Male,Bachelor's,Married,Full-time,Germany,140948,76736
+Male,Master's,Divorced,Full-time,UK,61278,50854
+Female,High School,Widowed,Full-time,China,37589,88623
+Female,High School,Single,Self-employed,UK,62044,47392
+Male,High School,Married,Unemployed,India,41300,6528
+Female,High School,Widowed,Self-employed,India,86948,86717
+Female,Master's,Single,Self-employed,South Africa,45202,94401
+Male,Bachelor's,Widowed,Full-time,Germany,89424,100859
+Male,PhD,Single,Part-time,South Africa,110254,47353
+Female,High School,Widowed,Full-time,France,109800,76309
+Female,PhD,Married,Part-time,Canada,37212,41919
+Male,Master's,Widowed,Unemployed,South Africa,70539,4931
+Male,Master's,Widowed,Unemployed,Canada,117304,3510
+Male,PhD,Single,Unemployed,India,127215,202
+Male,Bachelor's,Widowed,Full-time,India,116252,62688
+Male,PhD,Divorced,Full-time,USA,127079,75342
+Female,Master's,Single,Full-time,South Africa,53022,87157
+Male,PhD,Widowed,Self-employed,Germany,45655,42327
+Male,High School,Divorced,Full-time,Brazil,31660,102083
+Female,High School,Single,Self-employed,Nigeria,122785,80545
+Male,Bachelor's,Married,Unemployed,South Africa,47984,197
+Female,PhD,Single,Full-time,Brazil,121946,84698
+Male,PhD,Single,Self-employed,Canada,31487,84542
+Male,PhD,Widowed,Unemployed,Germany,51473,6287
+Male,PhD,Divorced,Unemployed,Nigeria,95065,8800
+Male,Bachelor's,Single,Full-time,Nigeria,75443,92107
+Female,Master's,Single,Part-time,South Africa,98551,40666
+Male,Bachelor's,Single,Part-time,Nigeria,97793,31589
+Female,Master's,Widowed,Unemployed,Brazil,132627,2511
+Female,Master's,Single,Part-time,UK,137807,35708
+Male,Master's,Divorced,Part-time,Canada,124472,46370
+Female,PhD,Widowed,Self-employed,France,63980,89811
+Female,Bachelor's,Married,Self-employed,USA,51884,42811
+Female,Master's,Married,Self-employed,Nigeria,78741,96250
+Male,High School,Widowed,Unemployed,Canada,46637,6546
+Male,Master's,Divorced,Part-time,Canada,128274,45945
+Female,Bachelor's,Widowed,Full-time,India,132383,84754
+Female,PhD,Widowed,Part-time,Canada,144486,28338
+Male,High School,Widowed,Unemployed,Germany,65227,2911
+Female,Master's,Widowed,Self-employed,India,126067,41734
+Female,PhD,Single,Unemployed,France,146184,1843
+Female,Bachelor's,Married,Self-employed,China,45473,48680
+Female,Bachelor's,Divorced,Unemployed,Canada,131112,2976
+Female,High School,Single,Full-time,South Africa,147951,61111
+Female,High School,Married,Self-employed,Nigeria,33847,77504
+Male,Master's,Widowed,Self-employed,France,73910,41802
+Male,PhD,Married,Part-time,France,135789,28155
+Male,PhD,Married,Unemployed,China,86272,8120
+Female,Bachelor's,Single,Part-time,UK,65649,26616
+Male,Bachelor's,Single,Unemployed,UK,98662,5534
+Female,Master's,Divorced,Full-time,France,38371,110713
+Female,Master's,Widowed,Part-time,Brazil,64465,36646
+Male,Bachelor's,Widowed,Self-employed,Nigeria,123365,86843
+Male,Bachelor's,Widowed,Full-time,Germany,105582,66371
+Female,PhD,Married,Unemployed,China,112251,2049
+Male,PhD,Married,Self-employed,China,40101,71616
+Male,PhD,Widowed,Unemployed,Germany,95031,5423
+Female,Master's,Divorced,Self-employed,South Africa,89663,87357
+Female,PhD,Married,Unemployed,USA,96949,4548
+Male,High School,Divorced,Self-employed,UK,77202,92260
+Female,High School,Married,Unemployed,China,37266,7158
+Male,PhD,Single,Part-time,Germany,95484,30248
+Male,PhD,Single,Self-employed,UK,142638,47400
+Female,Bachelor's,Widowed,Self-employed,Brazil,104302,92322
+Female,Bachelor's,Single,Part-time,France,51873,29874
+Male,Master's,Married,Unemployed,India,78193,2255
+Female,High School,Married,Self-employed,France,50618,41154
+Male,High School,Single,Part-time,India,63438,24499
+Female,Master's,Single,Unemployed,China,131361,6295
+Female,PhD,Single,Self-employed,Nigeria,43487,95349
+Male,PhD,Widowed,Self-employed,Germany,147213,99040
+Female,Master's,Single,Unemployed,Nigeria,105223,1648
+Male,High School,Married,Part-time,Germany,118358,25539
+Female,High School,Single,Self-employed,Brazil,124736,82405
+Male,PhD,Widowed,Unemployed,South Africa,45117,4199
+Male,Bachelor's,Widowed,Self-employed,Canada,59937,97597
+Female,Master's,Married,Unemployed,South Africa,127095,2557
+Male,Master's,Married,Self-employed,China,96692,78360
+Female,PhD,Single,Full-time,Germany,30336,52200
+Male,Master's,Married,Part-time,USA,35772,34172
+Male,High School,Divorced,Part-time,USA,142550,22961
+Male,PhD,Married,Full-time,UK,143105,96975
+Female,High School,Divorced,Unemployed,China,31610,4973
+Female,Bachelor's,Divorced,Part-time,USA,62053,40817
+Male,Master's,Married,Unemployed,UK,36026,2869
+Female,Master's,Divorced,Self-employed,Canada,91835,90108
+Female,High School,Married,Full-time,China,77707,88467
+Male,PhD,Married,Unemployed,China,80197,6944
+Male,PhD,Widowed,Unemployed,USA,49671,4493
+Male,Master's,Divorced,Part-time,France,53456,45876
+Female,High School,Divorced,Self-employed,India,142392,61295
+Male,Bachelor's,Single,Part-time,Canada,34635,23987
+Male,High School,Married,Self-employed,Nigeria,102465,98871
+Female,PhD,Widowed,Part-time,Canada,135265,42399
+Male,Master's,Widowed,Unemployed,Nigeria,149792,1218
+Female,Master's,Single,Unemployed,UK,123588,4496
+Male,Master's,Divorced,Full-time,Germany,127080,94064
+Female,Bachelor's,Widowed,Unemployed,Nigeria,115944,4555
+Male,Bachelor's,Divorced,Unemployed,UK,84967,9146
+Male,PhD,Widowed,Unemployed,Germany,59427,8050
+Male,High School,Widowed,Unemployed,Canada,72179,3446
