@@ -1,0 +1,101 @@
+ID,Name,Age,Email,Joined_Date,Salary,Department
+0101,Chinedu Okoro,29.0,chinedu.okoro@gmail.com,2023-01-15,50000,Engineering
+0102,Ngozi Eze,34.0,ngozi.eze@hotmail.com,2023-01-15,55000,Engineering
+0103,Emeka Uche,45.0,emeka.uche@yahoo.com,2022-12-05,60000,Sales
+0104,Adeola Balogun,27.0,adeola.balogun@gmail.com,2023-02-28,45000,Human Resources
+0105,Ifeyinwa Okafor,30.0,ifeyinwa.okafor@gmail.com,2023-03-10,48000,Marketing
+0106,Segun Adebayo,45.0,nan,2021-11-25,55000,Operations
+0107,Funke Ojo,38.0,funke.ojo@hotmail.com,2021-11-25,58000,Operations
+0108,Tope Adeyemi,50.0,tope.adeyemi@yahoo.com,2023-07-07,62000,Finance
+0109,Uche Nwankwo,42.0,uche.nwankwo@gmail.com,2022-08-20,70000,Research & Development
+0110,Ifeoma Chukwu,31.0,ifeoma.chukwu@hotmail.com,2023-09-09,50000,Legal
+0111,Chukwuemeka Obi,36.0,chukwuemeka.obi@yahoo.com,2022-05-16,65000,Engineering
+0112,Ijeoma Nnamani,44.0,ijeoma.nnamani@gmail.com,2022-05-16,70000,Sales
+0113,Nnamdi Anozie,39.0,nnamdi.anozie@hotmail.com,2021-06-30,60000,Human Resources
+0114,Amina Yusuf,28.0,amina.yusuf@yahoo.com,2023-04-22,53000,Marketing
+0115,Musa Bello,45.0,musa.bello@gmail.com,2023-04-22,80000,Operations
+0116,Fatima Suleiman,33.0,fatima.suleiman@hotmail.com,2022-07-11,62000,Finance
+0117,Olufemi Akinola,29.0,olufemi.akinola@yahoo.com,2022-07-11,75000,Legal
+0118,Bolaji Balogun,40.0,bolaji.balogun@gmail.com,2023-08-01,68000,Research & Development
+0119,Tunde Afolabi,38.0,tunde.afolabi@hotmail.com,2023-01-08,72000,Information Technology
+0120,Bisi Adekunle,32.0,bisi.adekunle@yahoo.com,2023-10-05,54000,Customer Service
+0121,Kunle Adegoke,77.0,kunle.adegoke@gmail.com,2023-10-15,100000,Engineering
+0122,Yetunde Adetola,48.0,yetunde.adetola@hotmail.com,2022-11-12,150000,Engineering
+0123,Taiwo Olatunji,50.0,taiwo.olatunji@yahoo.com,2021-12-31,85000,Sales
+0124,Femi Opeyemi,46.0,femi.opeyemi@gmail.com,2021-12-31,90000,Human Resources
+0125,Niyi Faleye,52.0,niyi.faleye@hotmail.com,2022-01-20,95000,Marketing
+0126,Kemi Ajayi,30.0,kemi.ajayi@yahoo.com,2022-01-20,67000,Operations
+0127,Remi Akinyemi,25.0,remi.akinyemi@gmail.com,2023-02-14,48000,Finance
+0128,Sola Akintola,27.0,sola.akintola@hotmail.com,2023-02-14,50000,Legal
+0129,Wale Balogun,41.0,wale.balogun@yahoo.com,2023-03-03,82000,Research & Development
+0130,Rita Ibekwe,35.0,rita.ibekwe@gmail.com,2023-03-03,62000,Information Technology
+0131,Adaeze Nwosu,19.0,adaeze.nwosu@hotmail.com,2022-04-01,40000,Customer Service
+0132,Efe Eromosele,42.0,efe.eromosele@yahoo.com,2022-04-15,75000,Engineering
+0133,Damilola Ogunleye,37.0,damilola.ogunleye@gmail.com,2022-04-15,88000,Sales
+0134,Olamide Bakare,29.0,olamide.bakare@hotmail.com,2023-05-05,54000,Human Resources
+0135,Ireti Aderibigbe,26.0,ireti.aderibigbe@yahoo.com,2023-05-05,47000,Marketing
+0136,Eniola Ogun,48.0,eniola.ogun@gmail.com,2021-06-20,82000,Operations
+0137,Chika Nwachukwu,34.0,chika.nwachukwu@hotmail.com,2021-06-20,68000,Finance
+0138,Nneka Iwuanyanwu,41.0,nneka.iwuanyanwu@yahoo.com,2023-07-11,73000,Legal
+0139,Obinna Uzoho,33.0,obinna.uzoho@gmail.com,2023-07-11,58000,Research & Development
+0140,Ogechi Nwankwo,30.0,ogechi.nwankwo@hotmail.com,2022-08-08,60000,Information Technology
+0141,Ikechukwu Eze,27.0,ikechukwu.eze@yahoo.com,2022-08-08,55000,Customer Service
+0142,Amaka Anyaoku,38.0,amaka.anyaoku@gmail.com,2023-09-12,71000,Engineering
+0143,Ugochukwu Okeke,41.0,ugo.okeke@hotmail.com,2023-09-12,85000,Sales
+0144,Chioma Umeh,22.0,chioma.umeh@yahoo.com,2022-10-10,49000,Human Resources
+0145,Okechukwu Ndukwe,58.0,okechukwu.ndukwe@gmail.com,2022-10-10,120000,Marketing
+0146,Ifunanya Okwuosa,31.0,ifunanya.okwuosa@hotmail.com,2023-11-01,56000,Operations
+0147,Chigozie Eze,35.0,chigozie.eze@yahoo.com,2023-11-01,67000,Finance
+0148,Adaobi Ekwueme,64.0,adaobi.ekwueme@gmail.com,2022-12-15,95000,Legal
+0149,Ijeoma Okoro,50.0,ijeoma.okoro@yahoo.com,2022-12-15,85000,Sales
+0150,Nkiru Okafor,19.0,nkiru.okafor@gmail.com,2023-01-25,45000,Research & Development
+0151,Emeka Nwankwo,54.0,emeka.nwankwo@hotmail.com,2023-01-25,90000,Information Technology
+0152,Osagie Osawe,37.0,osagie.osawe@yahoo.com,2023-02-05,68000,Customer Service
+0153,Ganiyu Balogun,32.0,ganiyu.balogun@gmail.com,2023-02-05,62000,Engineering
+0154,Abimbola Akinlade,40.0,abimbola.akinlade@hotmail.com,2023-03-17,77000,Sales
+0155,Kehinde Adeyemi,42.0,kehinde.adeyemi@yahoo.com,2023-03-17,73000,Human Resources
+0156,Ayo Ogunleye,27.0,ayo.ogunleye@gmail.com,2022-04-07,58000,Marketing
+0157,Zainab Musa,39.0,zainab.musa@hotmail.com,2022-04-07,79000,Operations
+0158,Ibrahim Abdullahi,65.0,ibrahim.abdullahi@yahoo.com,2023-05-19,99000,Finance
+0159,Halima Sani,33.0,halima.sani@gmail.com,2023-05-19,68000,Legal
+0160,Yemi Olatunji,35.0,yemi.olatunji@hotmail.com,2022-06-30,72000,Research & Development
+0161,Segun Adewale,56.0,segun.adewale@yahoo.com,2022-06-30,85000,Information Technology
+0162,Sade Adeniran,28.0,sade.adeniran@gmail.com,2023-07-14,61000,Customer Service
+0163,Lanre Adekunle,42.0,lanre.adekunle@hotmail.com,2023-07-14,69000,Engineering
+0164,Fola Akinola,39.0,fola.akinola@yahoo.com,2022-08-20,80000,Sales
+0165,Olamide Adegoke,47.0,olamide.adegoke@gmail.com,2022-08-20,87000,Human Resources
+0166,Bolanle Adeoye,68.0,bolanle.adeoye@hotmail.com,2023-09-09,110000,Marketing
+0167,Yetunde Adegbite,33.0,yetunde.adegbite@yahoo.com,2023-09-09,65000,Operations
+0168,Chioma Chukwu,38.0,chioma.chukwu@gmail.com,2022-10-25,92000,Finance
+0169,Ifeanyi Eze,58.0,ifeanyi.eze@hotmail.com,2022-10-25,99000,Legal
+0170,Chisom Nwosu,45.0,chisom.nwosu@yahoo.com,2023-11-15,83000,Research & Development
+0171,Uchechi Nwankwo,55.0,uchechi.nwankwo@gmail.com,2023-11-15,94000,Information Technology
+0172,Ikenna Obi,33.0,ikenna.obi@hotmail.com,2022-12-05,100000,Customer Service
+0173,Nkemdilim Ogbuagu,72.0,nkemdilim.ogbuagu@yahoo.com,2022-12-05,105000,Engineering
+0174,Obianuju Eze,62.0,obianuju.eze@gmail.com,2023-01-30,98000,Sales
+0175,Ikechukwu Obi,41.0,ikechukwu.obi@hotmail.com,2023-01-30,76000,Human Resources
+0176,Amarachi Okafor,47.0,amarachi.okafor@yahoo.com,2022-02-18,86000,Marketing
+0177,Uzoamaka Nnamdi,54.0,uzoamaka.nnamdi@gmail.com,2022-02-18,92000,Operations
+0178,Chibuike Eze,30.0,chibuike.eze@hotmail.com,2023-03-03,64000,Finance
+0179,Nneoma Chukwu,66.0,nneoma.chukwu@yahoo.com,2023-03-03,88000,Legal
+0180,Chidinma Obi,46.0,chidinma.obi@gmail.com,2022-04-22,93000,Research & Development
+0181,Ifechukwu Okoro,29.0,ifechukwu.okoro@hotmail.com,2022-04-22,57000,Information Technology
+0182,Nkechi Ibeh,35.0,nkechi.ibeh@yahoo.com,2023-05-11,110000,Customer Service
+0183,Ijeoma Balogun,33.0,ijeoma.balogun@gmail.com,2023-05-11,88000,Engineering
+0184,Tobiloba Adebayo,28.0,tobiloba.adebayo@hotmail.com,2022-06-01,95000,Sales
+0185,Olusola Akinola,77.0,olusola.akinola@yahoo.com,2022-06-01,50000,Human Resources
+0186,Opeyemi Adeniran,50.0,opeyemi.adeniran@gmail.com,2023-07-07,76000,Marketing
+0187,Akinwale Adegbite,77.0,akinwale.adegbite@hotmail.com,2023-07-07,120000,Operations
+0188,Temitope Adeyemi,18.0,temitope.adeyemi@yahoo.com,2022-08-15,48000,Finance
+0189,Kikelomo Balogun,55.0,kikelomo.balogun@gmail.com,2022-08-15,105000,Legal
+0190,Oyindamola Adegoke,47.0,oyindamola.adegoke@hotmail.com,2023-09-30,70000,Research & Development
+0191,Aisha Yusuf,31.0,aisha.yusuf@yahoo.com,2023-09-30,65000,Information Technology
+0192,Rahman Bello,35.0,rahman.bello@gmail.com,2022-10-12,72000,Customer Service
+0193,Abdullahi Suleiman,57.0,abdullahi.suleiman@hotmail.com,2022-10-12,115000,Engineering
+0194,Suleiman Abdullahi,77.0,suleiman.abdullahi@yahoo.com,2023-11-10,98000,Sales
+0195,Chinonso Eze,67.0,chinonso.eze@gmail.com,2023-11-10,130000,Human Resources
+0196,Chidera Nwachukwu,77.0,chidera.nwachukwu@hotmail.com,2022-12-01,102000,Marketing
+0197,Ifedayo Olatunji,77.0,ifedayo.olatunji@yahoo.com,2022-12-01,150000,Operations
+0198,Adenike Ajayi,55.0,adenike.ajayi@gmail.com,2023-01-01,125000,Finance
+0199,Bolanle Adekunle,36.0,bolanle.adekunle@hotmail.com,2023-01-01,68000,Legal
+01100,Adebimpe Ogunleye,64.0,adebimpe.ogunleye@yahoo.com,2023-02-28,88000,Customer Service
